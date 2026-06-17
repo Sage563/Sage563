@@ -4,8 +4,11 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me :advikmurthy12@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am a young dev(9)
-  My coding skills :![Sages GitHub stats](https://github-readme-stats.vercel.app/api?username=Sage563\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+- ⚡ Fun fact: I am a young dev(10)
+- 
+  My coding skills :
+
+  ![Sages GitHub stats](https://github-readme-stats.vercel.app/api?username=Sage563\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 <!---
 Sage563/Sage563 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
